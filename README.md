@@ -12,4 +12,3 @@ In this program you can :
 5. find slack time for ALL tasks -(if there are cycles in your graph you cant calculate slack time)
 
 
-Note: see file project.py and in the end of it you can see output & input examples.
